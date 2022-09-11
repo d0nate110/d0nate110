@@ -7,7 +7,7 @@
  -  ✨ I am interested in **full-stack development** and **robotics**.
  -  🌱 I am currently learning **Typescript** , **React-native**, and **Python**. 
  -  ⚡ Fun fact: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. 
- -  📫 How to reach me: [linkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
+ -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
   
   
 
