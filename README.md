@@ -10,10 +10,14 @@
  -  🌱 I am currently learning **Typescript** , **React**, and **Python**. 
  -  ⚡ Fun fact: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. 
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
-  
-  
+
+
+
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nate110&hide=JupyterNotebook)](https://github.com/d0nate110/github-readme-stats)
   
+  
+  ![Antons's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0nate110&show_icons=true&theme=tokyonight)
 
 
 
