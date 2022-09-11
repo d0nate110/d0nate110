@@ -4,7 +4,7 @@
 
 
  -  🎓 I am currently pursuing my **Bachelor's in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
- -  ✨ I am interested in **full-stack development** and **robotics**.
+ -  ✨ I am interested in **full-stack development**, **robotics** and **cybersecurity**.
  -  🌱 I am currently learning **Typescript** , **React-native**, and **Python**. 
  -  ⚡ Fun fact: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. 
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
