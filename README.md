@@ -12,7 +12,7 @@
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nate110&hide=JupyterNotebook,html,css,python)](https://github.com/d0nate110/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nate110&hide=JupyterNotebook)](https://github.com/d0nate110/github-readme-stats)
   
 
 
