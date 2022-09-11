@@ -3,7 +3,7 @@
 
 
 
- -  🎓 I am a second year student, currently pursuing my **Bachelor's in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
+ -  🎓 I am currently pursuing my **Bachelor's in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
  -  ✨ I am interested in **full-stack development** and **robotics**.
  -  🌱 I am currently learning **Typescript** , **React-native**, and **Python**. 
  -  ⚡ Fun fact: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. 
