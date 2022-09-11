@@ -14,7 +14,7 @@
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nate110&hide=JupyterNotebook)](https://github.com/d0nate110/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nate110&layout=compact)](https://github.com/github-readme-stats)
   
   
   ![Antons's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0nate110&show_icons=true&theme=tokyonight)
