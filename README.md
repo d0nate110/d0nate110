@@ -8,7 +8,7 @@
  -  :computer: I code mainly in **Java** and **JavaScript**.
  -  :bulb:  I know *React-native*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*.
  -  🌱 I am currently learning **React** and **Vue.js**. 
- -  ⚡ Fun fact: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. 
+ -  ⚡ Fun facts: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. Can play :musical_keyboard: and :guitar:
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
 
 
