@@ -7,7 +7,7 @@
  -  ✨ I am interested in **full-stack development**, **robotics** and **cybersecurity**.
  -  :computer: I code mainly in **Java** and **JavaScript**.
  -  :bulb:  I know *React-native*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*.
- -  🌱 I am currently learning **Typescript** , **React**, and **Python**. 
+ -  🌱 I am currently learning **React** and **Vue.js**. 
  -  ⚡ Fun fact: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. 
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
 
