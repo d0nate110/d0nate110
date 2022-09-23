@@ -6,7 +6,7 @@
  -  🎓 I am currently pursuing my **Bachelor's in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
  -  ✨ I am interested in **full-stack development**, **robotics** and **cybersecurity**.
  -  :computer: I code mainly in **Java** and **JavaScript**.
- -  :bulb:  I know *React-native*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*.
+ -  :bulb:  I know *Express.js*, *Node.js*, *MongoDB* and *Android studio*.
  -  🌱 I am currently learning **React** and **Vue.js**. 
  -  ⚡ Fun facts: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. Can play :musical_keyboard: and :guitar:
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
