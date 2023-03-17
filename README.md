@@ -16,10 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nate110&layout=compact)](https://github.com/github-readme-stats)
   
-  
-  ![Antons's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0nate110&show_icons=true&theme=default)
-
-
 
 <!--
 **d0nate110/d0nate110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
