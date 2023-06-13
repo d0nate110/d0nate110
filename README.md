@@ -1,5 +1,5 @@
 
-## Hello, my name is Anton! 👋 (the username is pronounced as donatello :D)
+## Hello, my name is Anton! 👋 _(the username is pronounced as "donatello" :D)_
 
 
 
