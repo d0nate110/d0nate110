@@ -1,5 +1,6 @@
 
-## Hello, my name is Anton! 👋 _(the username is pronounced as "donatello" :D)_
+## Hello, my name is Anton! 👋 <img src=http://pa1.narvii.com/6207/14f6c612603c7daa47fc49a4cf42641841216359_hq.gif alt="donatello" width="80">
+
 
 
 
