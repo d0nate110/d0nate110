@@ -4,11 +4,10 @@
 
 
  -  🎓 I am currently pursuing my **Bachelor's in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
- -  ✨ I am interested in **full-stack development**, **robotics** and **cybersecurity**.
+ -  ✨ I am passionate about **cybersecurity** and **full-stack development**.
  -  :computer: I code mainly in **JavaScript**.
- -  :bulb:  I know *React*, *Typescript*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*.
- -  🌱 I am currently learning **C**. 
- -  ⚡ Fun facts: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:. Can play :musical_keyboard: and :guitar:
+ -  :bulb:  I have worked with *React-native*, *React*, *Typescript*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*. 
+ -  ⚡ Fun facts: I am a kitesurfer:surfer:, love to play basketball:basketball: and padel:tennis:.
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
 
 
