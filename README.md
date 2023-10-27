@@ -8,7 +8,7 @@
  -  ✨ I am passionate about **cybersecurity** and **Linux administration**.
  -  :computer: I code mainly in **JavaScript** and currently learning **Python**.
  -  :bulb:  I have worked with *React-native*, *React*, *Typescript*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*. 
- -  ⚡ Fun facts: I like to kitesurfe:surfer:, love to play basketball:basketball: and enjoy playing padel:tennis:.
+ -  ⚡ Fun facts: I like to kitesurf:surfer:, love to play basketball:basketball: and enjoy playing padel:tennis:.
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
 
 
