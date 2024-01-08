@@ -6,9 +6,9 @@
 
  -  🎓 I am currently pursuing my **Bachelor's degree in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
  -  ✨ I am passionate about **cybersecurity** and **Linux administration**.
- -  :computer: I code mainly in **JavaScript** and currently learning **Python**.
+ -  :computer: I code mainly in **Python**.
  -  :bulb:  I have worked with *React-native*, *React*, *Typescript*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*. 
- -  ⚡ Fun facts: I like to kitesurf:surfer:, love to play basketball:basketball: and enjoy playing padel:tennis:.
+ -  ⚡ Fun facts: I like to kitesurf, love to play basketball and enjoy playing padel.
  -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-golubenko-957a03212/)
 
 
