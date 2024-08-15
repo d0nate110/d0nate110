@@ -4,7 +4,6 @@
 
 
 
- -  🎓 I am currently pursuing my **Bachelor's degree in Software Engineering and Management** at the **University of Gothenburg/Chalmers**.
  -  ✨ I am passionate about **cybersecurity** and **Linux administration**.
  -  :computer: I code mainly in **Python**.
  -  :bulb:  I have worked with *React-native*, *React*, *Typescript*, *Express.js*, *Node.js*, *MongoDB* and *Android studio*. 
